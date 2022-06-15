@@ -1,11 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I'm Juadeb Gabriel(FM)</h1>
-<h3 align="center">I'm a Front Developer from Nigeria.</h3>
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" height="300px" width="100%" alt="Tech Banner">
+<h1 align="center">I'm Juadeb Gabriel (FM)</h1>
+<h3 align="center">Front-end Developer from Lagos, Nigeria.</h3>
 
 
-## 🙋‍♂️ About Me
+                                                               ## 🙋‍♂️ About Me
 
-- 🔭 A Graduate of Transport(marine) and Logistics Management (TLM)
-
+- 🔭 A graduate of Transport(marine) and Logistics Management (TLM)
+- ⚡ Certification includes: ALT-X/Udacity Web Development Foundations, FreeCodeCamp Courses.
 - 🌱 I’m currently learning **Everything there is to learn about web design tools and technologies**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -23,7 +24,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
