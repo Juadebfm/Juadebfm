@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" height="300px" width="100%" alt="Tech Banner">
 <h1 align="center">I'm Juadeb Gabriel (FM)</h1>
-<h3 align="center">Front-end Developer from Lagos, Nigeria.</h3>
+<h3 align="center">Front-end Web Developer from Lagos, Nigeria.</h3>
 
 
                                                                ## 🙋‍♂️ About Me
