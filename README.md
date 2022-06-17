@@ -3,7 +3,7 @@
 <h3 align="center">Front-end Web Developer from Lagos, Nigeria.</h3>
 
 
-                                                               ## 🙋‍♂️ About Me
+                                                           ## 🙋‍♂️ About Me
 
 - 🔭 A graduate of Transport(marine) and Logistics Management (TLM)
 - ⚡ Certification includes: ALT-X/Udacity Web Development Foundations, FreeCodeCamp Courses.
